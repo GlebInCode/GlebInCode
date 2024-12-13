@@ -2,19 +2,27 @@
 
 **iOS-разработчик**
 
-[![Telegram Badge](https://t.me/GKapik)
+[![Telegram Badge](https://img.shields.io/badge/-@GKapik-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/GKapik)
+[![Email Badge](https://img.shields.io/badge/-nimimk19@yandex.ru-ff8300?style=flat&logo=mailboxdotorg&logoColor=white)](mailto:nimimk19@yandex.ru)
 
-<!--
-**GlebInCode/GlebInCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚙️ Технологии и инструменты
 
-Here are some ideas to get you started:
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=Swift&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat&logo=Apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat&logo=Xcode&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Статистика GitHub
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=GlebInCode&show_icons=true&theme=dark&hide_border=true&bg_color=00000000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=GlebInCode&show_icons=true&theme=default&hide_border=true&bg_color=00000000"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GlebInCode&show_icons=true&hide_border=true&bg_color=00000000" />
+</picture>
