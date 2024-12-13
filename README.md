@@ -26,3 +26,20 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=GlebInCode&show_icons=true&hide_border=true&bg_color=00000000" />
 </picture>
+
+## 📈 Статистика LeetGode
+
+<picture>
+  <source 
+    srcset="https://leetcode-stats.vercel.app/api?username=Kapik27&theme=Dark" 
+    media="(prefers-color-scheme: dark)" 
+  />
+  <source 
+    srcset="https://leetcode-stats.vercel.app/api?username=Kapik27&theme=Light" 
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+  />
+  <img 
+    src="https://leetcode-stats.vercel.app/api?username=Kapik27&theme=Light" 
+    alt="Kapik27 LeetCode Stats" 
+  />
+</picture>
