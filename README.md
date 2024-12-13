@@ -1,4 +1,8 @@
-## Hi there 👋
+# 👋 Привет, меня зовут Глеб!
+
+**iOS-разработчик**
+
+[![Telegram Badge](https://t.me/GKapik)
 
 <!--
 **GlebInCode/GlebInCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
