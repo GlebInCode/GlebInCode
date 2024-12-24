@@ -1,11 +1,15 @@
-# 👋 Привет, меня зовут Глеб!
+# 👋 Hello, my name is Gleb!
 
-**iOS-разработчик**
+
+
+**iOS Developer**
 
 [![Telegram Badge](https://img.shields.io/badge/-@GKapik-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/GKapik)
 [![Email Badge](https://img.shields.io/badge/-nimimk19@yandex.ru-ff8300?style=flat&logo=mailboxdotorg&logoColor=white)](mailto:nimimk19@yandex.ru)
 
-## ⚙️ Технологии и инструменты
+I am open to collaboration opportunities 🤝
+
+## ⚙️ Technologies and tools
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=Swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat&logo=Apple&logoColor=white)
@@ -13,7 +17,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 
-## 📈 Статистика GitHub
+## 📈 GitHub statistics
 
 <picture>
   <source 
@@ -27,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GlebInCode&show_icons=true&hide_border=true&bg_color=00000000" />
 </picture>
 
-## 📈 Статистика LeetGode
+## 📈 LeetGode statistics
 <a href="https://leetcode.com/u/Kapik27/" target="_blank">
   <picture>
     <source 
@@ -44,3 +48,5 @@
     />
   </picture>
 </a>
+
+
